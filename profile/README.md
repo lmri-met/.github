@@ -29,6 +29,7 @@ The goals of the LMRI are:
 3. To ensure the international traceability of National Standards for ionizing radiation by complying with the requirements of the Mutual Recognition Arrangement of the National Institutes of Metrology (MRA), promoted by the Comité International des Poids et Mésures since 1999, establishing an ISO 17025 Quality System and participating in the CIPM/BIPM Key Intercomparisons, in the EURAMET supplementary ones and in the BIPM "Système International de Référence" (SIR).
 
 ## Activities
+To meet its objectives, the LMRI carries out the following activities:
 1. Establishment of new standards and measurement techniques.
 2. Maintenance and traceability.
 3. Dissemination of units.
