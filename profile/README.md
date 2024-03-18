@@ -21,6 +21,10 @@ It is a special repository.
 The ``/profile/README.md`` will appear on the organization's profile.
 This file contains the public description of the LMRI Organization.
 
+2. ``sites-guideradpros``: GuideRadPROS project website
+
+3. ``uspekpy``: Uncertainty estimation on protection quantities for x-rays using SpekPy and Monte Carlo techniques
+
 ## About the LMRI
 
 ### Facilities
