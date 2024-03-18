@@ -10,6 +10,10 @@ Any member of the LMRI can join the organization to host their code repositories
 This organization is meant to be public. 
 The organization provides a way for anyone in the LMRI to host their code on GitHub, facilitating the use of synchronization on the cloud, the use of version control, the reusability of code between projects, and the collaboration between LMRI members.
 
+### Naming conventions
+
+Repositories to host static websites must be named ``sites-name``.
+
 ### Current repositories
 
 1. ``lmri-met/.github``:
