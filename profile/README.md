@@ -4,14 +4,14 @@ The Ionizing Radiation Metrology Laboratory (LMRI for its acronym in Spanish), i
 ## Facilities
 The LMRI has three groups of laboratories:
 
-1. Radionuclide Metrology Laboratories:
+1. **Radionuclide Metrology Laboratories**:
 Its aim is to maintain the national standard of activity (becquerel).
 It consists of three laboratories:
 - Alpha standards laboratory.
 - Liquid scintillation measurements laboratory.
 - Gamma spectrometry and coincidence measurements laboratory.
 
-3. Dosimetric Standards Laboratories:
+2. **Dosimetric Standards Laboratories**:
 Its aim is to maintain the national standards of activity activity (becquerel), exposure (coulomb·kg<sup>-1</sup>), kerma (gray) and absorbed dose (gray).
 It consists of three laboratories:
 - Reference laboratory for gamma radiation at protection levels.
@@ -19,7 +19,7 @@ It consists of three laboratories:
 - Reference laboratory for gamma at hospital therapy levels.
 - Reference laboratory for beta radiation at protection levels.
 
-4. Neutron Standards Laboratory:
+3. **Neutron Standards Laboratory**:
 Its aim is to maintain the national standard of fluence (m<sup>-2</sup>).
 
 ## Objectives
