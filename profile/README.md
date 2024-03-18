@@ -24,10 +24,11 @@ Its aim is to maintain the national standard of fluence (m<sup>-2</sup>).
 ## About the LMRI GitHub Organization
 
 The aim of this GitHub organization is to provide a central site to host the code repositories developed within the LMRI.
-Any repetitive or single task of a laboratory that can be automated or developed programming can be hosted in the organization. 
+The organization provides a way for anyone in the LMRI to host their code on GitHub, facilitating the use of synchronization on the cloud, the use of version control, the reusability of code between projects, and the collaboration between LMRI members.
+
+Any code developed to automate any repetitive task or to solve a single task of a laboratory can be hosted in the organization. 
 Any member of the LMRI can join the organization to host their code repositories. 
 This organization is meant to be public. 
-The organization provides a way for anyone in the LMRI to host their code on GitHub, facilitating the use of synchronization on the cloud, the use of version control, the reusability of code between projects, and the collaboration between LMRI members.
 
 ## Naming conventions
 
