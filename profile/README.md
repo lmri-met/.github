@@ -35,10 +35,7 @@ Repositories to host static websites must be named ``sites-name``.
 
 ## Current repositories
 
-1. ``lmri-met/.github``:
-It is a special repository.
-The ``/profile/README.md`` will appear on the organization's profile.
-This file contains the public description of the LMRI Organization.
+1. ``lmri-met/.github``: Special repository for the public description of the LMRI Organization on its profile (``/profile/README.md``).
 
 2. ``sites-guideradpros``: GuideRadPROS project website
 
