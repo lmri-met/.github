@@ -1,5 +1,5 @@
 # LMRI: Ionizing Radiation Metrology Laboratory
-The Ionizing Radiation Metrology Laboratory (LMRI for its acronym in Spanish), is the Spanish national reference laboratory for establishing, maintaining and disseminating national standards for ionizing radiation magnitudes.
+The [Ionizing Radiation Metrology Laboratory](https://rdgroups.ciemat.es/web/lmri) (LMRI for its acronym in Spanish), is the Spanish national reference laboratory for establishing, maintaining and disseminating national standards for ionizing radiation magnitudes.
 
 ## Facilities
 The LMRI has three groups of laboratories:
