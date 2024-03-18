@@ -15,6 +15,7 @@ The organization provides a way for anyone in the LMRI to host their code on Git
 1. ``lmri-met/.github``:
 It is a special repository.
 The ``/profile/README.md`` will appear on the organization's profile.
+This file contains the public description of the LMRI Organization.
 
 ## About the LMRI
 
