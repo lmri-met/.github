@@ -41,5 +41,5 @@ The aim of this GitHub organization is to provide a central site to host the cod
 Any repetitive or single task of a laboratory that can be automated or developed programming can be hosted in the organization. 
 Any member of the LMRI can join the organization to host their code repositories. 
 This organization is meant to be public. 
-The organization provides a way for anyone to host their code on GitHub, facilitating the use of synchronization on the cloud, the use of version control, the reusability of code between projects, and the collaboration between LMRI members.
+The organization provides a way for anyone in the LMRI to host their code on GitHub, facilitating the use of synchronization on the cloud, the use of version control, the reusability of code between projects, and the collaboration between LMRI members.
 
