@@ -11,16 +11,8 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/lmri-met/.github)
 ![GitHub forks](https://img.shields.io/github/forks/lmri-met/.github)
 
-> Project's short description
-> 
-> ![Static Badge](https://img.shields.io/badge/Documentation-blue?link=https%3A%2F%2Fgithub.com%2Fxandratxan%2Fphysical-magnitude%2Fblob%2Fmain%2FREADME.md)
-> ![Static Badge](https://img.shields.io/badge/Surce_code-blue?link=https%3A%2F%2Fgithub.com%2Fxandratxan%2Fphysical-magnitude)
-> ![Static Badge](https://img.shields.io/badge/Contribute-blue?link=https%3A%2F%2Fgithub.com%2Fxandratxan%2Fphysical-magnitude%2Fissues)
-
 ## Table of Contents
 - [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributors](#contributors)
 - [License](#license)
 - [Contribute](#contribute)
@@ -28,25 +20,10 @@
 
 <a name="description"></a>
 ## Description
-Project's description. What is the project motivation? What problem does it solve? What technologies you used and why?
-
-<a name="installation"></a>
-## Installation
-If installation is needed in order to use the project, provide step-by-step explanation, use code snippets.
-```python
-# Python code snippet
-a=3
-print(a)
-```
-
-<a name="usage"></a>
-## Usage
-Representative examples of what user need to do to use the project. Provide step-by-step explanation, use code snippets. Also show expected output. 
-```python
-# Python code snippet
-a=3
-print(a)
-```
+The .github repository is a special repository within an organization on GitHub.
+It contains configuration files and templates that are used across all repositories within that organization.
+This repository contains the LMRI-Met organization public profile README, hosted in the profile folder.
+See more in [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
 
 <a name="contributors"></a>
 ## Contributors
