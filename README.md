@@ -11,6 +11,12 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/lmri-met/.github)
 ![GitHub forks](https://img.shields.io/github/forks/lmri-met/.github)
 
+> LMRI-Met organization public configuration
+> 
+> [![Static Badge](https://img.shields.io/badge/Documentation-blue)](https://github.com/lmri-met/.github/blob/main/README.md)
+> [![Static Badge](https://img.shields.io/badge/Surce_code-blue)](https://github.com/lmri-met/.github)
+> [![Static Badge](https://img.shields.io/badge/Contribute-blue)](https://github.com/lmri-met/.github/issues)
+
 ## Table of Contents
 - [Description](#description)
 - [Contributors](#contributors)
