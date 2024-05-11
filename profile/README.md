@@ -1,4 +1,4 @@
-# LMRI: Ionizing Radiation Metrology Laboratory
+# LMRI-Met: Ionizing Radiation Metrology Laboratory
 
 ## About the LMRI
 
