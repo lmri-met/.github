@@ -34,13 +34,6 @@ This organization is meant to be public.
 
 Repositories to host static websites must be named ``sites-name``.
 
-## Current repositories
-
-1. ``lmri-met/.github``: Special repository for the public description of the LMRI Organization on its profile (``/profile/README.md``).
-2. ``sites-guideradpros``: GuideRadPROS project website
-3. ``uspekpy``: Uncertainty estimation on protection quantities for x-rays using SpekPy and Monte Carlo techniques
-4. ``xmet``: Tools for x-ray metrology.
-
 ## Contributors
 
 Miguel Embid [@GitHub](https://github.com/Miguel-Embid/)
