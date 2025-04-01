@@ -19,7 +19,6 @@ It consists of four laboratories:
 - Reference laboratory for beta radiation at protection levels.
 
 3. **Neutron Standards Laboratory**:
-Its aim is to maintain the national standard of fluence (m<sup>-2</sup>).
 
 ## About the LMRI GitHub Organization
 
